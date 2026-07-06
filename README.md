@@ -5,10 +5,11 @@
 </p>
 
 <p align="center">
+  <a href="https://saidbilaldariyemez.github.io/"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-earth&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/in/said-bilal-dar%C4%B1yemez/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/SAIDBILALDARIYEMEZ"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://huggingface.co/SAIDBILAL07"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"></a>
   <a href="https://www.instagram.com/saidbilaldaryemez/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="mailto:emurataltun@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <p align="center">
@@ -58,7 +59,7 @@ Teknoloji ve girişimcilik odaklı yönümün yanı sıra, Gençlik ve Spor Baka
 ![GenAI](https://img.shields.io/badge/Generative_AI-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI_Agents_&_Vapi-6366F1?style=for-the-badge&logo=openai&logoColor=white)
 ![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
-![E-Commerce](https://img.shields.io/badge/Shopify_E--Commerce-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
+![E-Commerce](https://img.shields.io/badge/Shopify_E--Commerce-95BF47?style=for-the-badge&logo=shopify&byte=white)
 ![Saha & Kriz Yönetimi](https://img.shields.io/badge/Saha_&_Kriz_Yönetimi-Red?style=for-the-badge&logo=unicef&logoColor=white)
 
 </div>
@@ -98,6 +99,6 @@ Teknoloji ve girişimcilik odaklı yönümün yanı sıra, Gençlik ve Spor Baka
 *   **Akdeniz Üniversitesi** — Makine Programı (Örgün Öğretim), 2. Sınıf
 *   **Anadolu Üniversitesi** — Açıköğretim Fakültesi, 4. Sınıf
 *   **Katılım Sağlanan Kamp ve Çalıştaylar:** GSB Doğa Kampları (Rize & Samsun), Eurodesk Denizli Bölgesel Bilgilendirme Toplantısı (Vizyon Kulübü Temsilcisi), GSB Gençlik Politikası Çalıştayı (Delege)
-*   **Sertifikalar:** BTK Akademi — Generative AI ve LinkedIn Profil Optimizasyonu Eğitimleri
+*   **Sertifikalar:** BTK Academy — Generative AI ve LinkedIn Profil Optimizasyonu Eğitimleri
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=120&section=footer)
